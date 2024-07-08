@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12906478904",
+    "project_id": "kehati-games",
+    "storage_bucket": "kehati-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12906478904:android:727fed934b4d7fc76c55cd",
+        "android_client_info": {
+          "package_name": "com.kehatigames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA15QHZ6FcjPml3WpKLFSwopzjxZOKvp1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
